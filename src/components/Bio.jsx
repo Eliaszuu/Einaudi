@@ -13,7 +13,7 @@ const Bio = () => {
                             November 1955 in Turin, Italien, geboren und ist einer der bekanntesten zeitgenössischen
                             Komponisten seiner Generation.
                         </p>
-                        <img width="40%" src="src/images/256933.webp" alt="bild2" className="float-end me-4"/>
+                        <img width="40%" src="././images/256933.webp" alt="bild2" className="float-end me-4"/>
 
 
                         <p>
@@ -32,7 +32,7 @@ const Bio = () => {
                             Musik
                             hinaus ausgeweitet hat.
                         </p>
-                        <img width="20%" src="src/images/face-Pic.jpeg" alt="bild1" className="float-start me-4"/>
+                        <img width="20%" src="././images/face-Pic.jpeg" alt="bild1" className="float-start me-4"/>
 
 
                         <p>
